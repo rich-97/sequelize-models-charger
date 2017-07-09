@@ -1,0 +1,31 @@
+{
+  "name": "sequelize-models-charger",
+  "version": "1.0.0",
+  "description": "A module for charger the models of sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rich-97/sequelize-models-charger.git"
+  },
+  "keywords": [
+    "models",
+    "sequelize",
+    "charger",
+    "loader"
+  ],
+  "author": "Ricardo Moreno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rich-97/sequelize-models-charger/issues"
+  },
+  "homepage": "https://github.com/rich-97/sequelize-models-charger#readme",
+  "devDependencies": {
+    "debug": "^2.6.8",
+    "mocha": "^3.4.2",
+    "sequelize": "^3.30.4",
+    "sqlite3": "^3.1.8"
+  }
+}
