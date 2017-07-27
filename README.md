@@ -1,5 +1,8 @@
 # sequelize-models-charger
 
+[![npm](https://img.shields.io/npm/v/sequelize-models-charger.svg)](https://www.npmjs.com/package/sequelize-models-charger)
+[![npm](https://img.shields.io/npm/dm/sequelize-models-charger.svg)](https://www.npmjs.com/package/sequelize-models-charger)
+
 A module for charger the models of sequelize.
 
 ## Installation
